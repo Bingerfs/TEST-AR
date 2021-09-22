@@ -138,7 +138,6 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: -3009889875556841106, guid: c6bee83c227d1254a81a96eedd49c4a8, type: 2}
   - {fileID: 3452409720787362072, guid: cee207a69c6f5ee42bcbe0c3aa8c8e75, type: 2}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -614,11 +613,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\HP\Documents\New Unity Project\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00064fdaa4ced801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
